@@ -1,0 +1,3 @@
+[04-15 20:26:18,914, 647] chat.WebSocketChatServlet WebSocketChatServlet.constructor
+[04-15 20:26:18,915, 648] chat.ChatService ChatService.constructor
+[04-15 20:26:18,960, 693] chat.WebSocketChatServlet WebSocketChatServlet.configure(WebSocketServletFactory factory)
